@@ -4,4 +4,16 @@
 
 ### Marvelous Mold
 
+#### Purpose
 
+#### Hypothesis
+
+#### Materials
+
+#### Procedure
+
+#### Data
+
+#### Conclusion
+
+#### Acknowledgements
