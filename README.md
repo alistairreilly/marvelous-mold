@@ -35,4 +35,4 @@
 
 #### Conclusion
 
-#### Acknowledgement**s
+#### Acknowledgements
