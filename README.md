@@ -1,4 +1,4 @@
-[« back to @alistairreilly's other science projects :microscope:](https://github.com/alistairreilly/science-projects) 
+[« back to @alistairreilly's other science projects :microscope:](https://github.com/alistairreilly/science-projects)
 
 --
 
@@ -61,6 +61,12 @@ The **data** is recorded in CSV format [here](log.csv)
 | **Bathroom** | **Bread** |0|0|0|0|0|0|0|0|0|0|0|0|0|0|
 | **Bathroom** | **Orange** |0|0|0|1|1|1|2|2|2|2|2|2|3|3|
 | **Bathroom** | **Cheese** |0|0|1|1|1|1|1|2|3|3|3|3|3|4|
+
+### Charts
+
+![Cheese Mold Growth](charts/cheese-mold-growth.png)
+
+![Orange Mold Growth](charts/orange-mold-growth.png)
 
 #### Conclusion
 
