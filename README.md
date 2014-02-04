@@ -18,7 +18,7 @@ The **hypothesis** of this experiment was that:
 
 #### Materials
 
-The materials needed are as follows:
+The **materials** needed are as follows:
 
 * 1 slice of bread
 * 1 orange
@@ -31,7 +31,7 @@ The materials needed are as follows:
 
 #### Procedure
 
-The procedure is as follows:
+The **procedure** is as follows:
 
 1. cut the bread into 5 equal pieces
 2. cut the cheese into 5 equal pieces
@@ -41,6 +41,8 @@ The procedure is as follows:
 6. check each item every day and record your observations
 
 #### Data
+
+The **data** is recorded in CSV format [here](log.csv)
 
 | Environment	| Food | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 | Day 6 | Day 7 | Day 8 | Day 9 | Day 10 | Day 11 | Day 12 | Day 13 | Day 14 |
 | ---	| --- | --- | --- | --- | ---| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -62,14 +64,14 @@ The procedure is as follows:
 
 #### Conclusion
 
-The conclusion is as follows:
+The **conclusion** is as follows:
 
 * different foods grow at different speeds
-* mold grows slow in the dark and cold
-* mold grows fast in the heat and light
+ * mold grows slow in the dark and cold
+ * mold grows fast in the heat and light
 * mold comes in all sorts of shapes and colors
-* mold starts off white on cheese
-* mold starts of black on orange
+ * mold starts off white on cheese
+ * mold starts of black on orange
 * daddy’s bread doesn’t mold
 
 #### Acknowledgements
