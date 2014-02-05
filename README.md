@@ -1,8 +1,6 @@
 [« back to @alistairreilly's other science projects :microscope:](https://github.com/alistairreilly/science-projects)
 
---
-
-### Marvelous Mold
+![Marvelous Mold Science Project and Poster](http://i.imgur.com/1STZtjF.png)
 
 #### Purpose
 
