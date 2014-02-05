@@ -40,7 +40,16 @@ The **procedure** is as follows:
 
 #### Data
 
-The **data** is recorded in CSV format [here](log.csv)
+The **data** is recorded in CSV format [here](log.csv).
+
+|Score|Fraction moldy|Percentage moldy|
+|---|---|---|
+|0|0|0%|
+|1|¼|25%|
+|2|½|50%|
+|3|¾|75%|
+|4|1|100%|
+
 
 | Environment	| Food | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 | Day 6 | Day 7 | Day 8 | Day 9 | Day 10 | Day 11 | Day 12 | Day 13 | Day 14 |
 | ---	| --- | --- | --- | --- | ---| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -65,6 +74,14 @@ The **data** is recorded in CSV format [here](log.csv)
 ![Cheese Mold Growth](charts/cheese-mold-growth.png)
 
 ![Orange Mold Growth](charts/orange-mold-growth.png)
+
+#### Selected Photographs
+
+More photographs can be found [here](photographs).
+
+![](http://i.imgur.com/EaHRJCV.jpg)
+
+![](http://imgur.com/8Jyqihp.jpg)
 
 #### Conclusion
 
