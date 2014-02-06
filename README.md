@@ -71,9 +71,9 @@ The **data** is recorded in CSV format [here](log.csv).
 
 ### Charts
 
-![Cheese Mold Growth](charts/cheese-mold-growth.png)
+![Cheese Mold Growth](http://i.imgur.com/mUkq0KE.png)
 
-![Orange Mold Growth](charts/orange-mold-growth.png)
+![Orange Mold Growth](http://i.imgur.com/2kdTvyv.png)
 
 #### Selected Photographs
 
