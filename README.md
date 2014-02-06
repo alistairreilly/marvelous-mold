@@ -1,6 +1,6 @@
 [« back to @alistairreilly's other science projects :microscope:](https://github.com/alistairreilly/science-projects)
 
-![Marvelous Mold Science Project and Poster](http://i.imgur.com/1STZtjF.png)
+![Marvelous Mold Science Project and Poster](http://i.imgur.com/jUzCBQy.jpg)
 
 #### Purpose
 
@@ -99,3 +99,5 @@ The **conclusion** is as follows:
 
 * Thank you mommy for letting me use your bread, cheese and organges
 * Thank you daddy for helping me with the computer
+
+![Marvelous Mold Science Project and Poster](http://i.imgur.com/1STZtjF.png)
